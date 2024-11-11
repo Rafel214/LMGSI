@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+header {
+  background-color: #d3d0cb;
+  text-align: center;
+}
+
+body {
+  background-color: #1e2019;
+  color: #d3d0cb;
+  text-align: center;
+}
+
+#logo {
+  height: 12vh;
+  border: 20px;
+  padding-top: 10px
+}
+
+nav{
+ color: #1e2019;
+ padding: 5px 0px;
+ border: 3px;
+}
+
+nav a {
+  color: black;
+  padding: 10px;
+  text-decoration: none;
+}
+
+h1 {
+  padding: 2%;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h3 {
+  padding-top: 15px;
+}
+
+form{
+  width: 60%;
+  border:2px #d3d0cb;
+  border-style:solid;
+  border-radius: 10px;
+  display: inline-block;
+  /* padding-bottom: 7%; */
+}
+
+form p{
+  padding: 10px;
+}
